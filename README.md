@@ -7,62 +7,87 @@ I'm a passionate [Your Title] with [X years of experience or student info]. I lo
 
 ---
 
-## 🛠️ Technologies & Tools:
-### Languages
-![C Programming](https://img.shields.io/badge/C_programming-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+## 🛠 Technologies & Tools:
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### Languages:
+- C Programming
+- Java
+- JavaScript
+- TypeScript
+- HTML
+- CSS
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+### Frontend:
+- Bootstrap
+- React.js
+- Redux
+- jQuery
+- Webpack
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### Backend:
+- Node.js
+- Express
+- Spring Boot
+- Spring IoC
+- Hibernate
+- GraphQL
 
-### Cloud & Hosting
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+### Databases:
+- PostgreSQL
+- Redis
+- SQLite
+- MongoDB
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Cloud & Hosting:
+- Azure
+- Firebase
+- Netlify
+- Heroku
+
+### Testing:
+- Selenium
+- JUnit
+
+### Version Control & CI/CD:
+- Git
+- GitHub
+- GitLab
+- Docker
+- Jenkins
+
+### Tools:
+- Eclipse
+- VSCode
+- Postman
+- VirtualBox
+- Ubuntu
 
 ---
 
-## 📚 Projects
-### **[Project 1]**
-- Description of Project 1
-- Key Features:
-  - Feature 1
-  - Feature 2
-  - Feature 3
-- **[Link to project]**
+## 🚀 Projects:
 
-### **[Project 2]**
-- Description of Project 2
-- Key Features:
+### **[Project 1 Name]**
+- **Description**: Briefly describe your project here.
+- **Key Features**:
   - Feature 1
   - Feature 2
   - Feature 3
-- **[Link to project]**
+- **Link to project**: [Link](#)
+
+### **[Project 2 Name]**
+- **Description**: Briefly describe your project here.
+- **Key Features**:
+  - Feature 1
+  - Feature 2
+  - Feature 3
+- **Link to project**: [Link](#)
 
 ---
 
 ## 💡 Interests:
 - Web Development
 - Cloud Computing
+- Blockchain Technology
 - Competitive Programming
 - Open Source Contributions
 
@@ -70,3 +95,12 @@ I'm a passionate [Your Title] with [X years of experience or student info]. I lo
 
 ## ✨ Fun fact:
 I love exploring new technologies and constantly challenging myself to learn and grow in the tech space.
+
+
+
+
+
+
+
+
+
