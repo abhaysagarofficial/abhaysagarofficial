@@ -65,7 +65,7 @@ I'm a passionate [Your Title] with [X years of experience or student info]. I lo
 
 ## 🚀 Projects:
 
-### **[Project 1 Name]**
+### **NeedNear**
 - **Description**: Briefly describe your project here.
 - **Key Features**:
   - Feature 1
@@ -73,7 +73,7 @@ I'm a passionate [Your Title] with [X years of experience or student info]. I lo
   - Feature 3
 - **Link to project**: [Link](#)
 
-### **[Project 2 Name]**
+### **Imagegram**
 - **Description**: Briefly describe your project here.
 - **Key Features**:
   - Feature 1
