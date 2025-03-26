@@ -68,9 +68,9 @@ I'm a passionate [Your Title] with [X years of experience or student info]. I lo
 ### **NeedNear**
 - **Description**: Briefly describe your project here.
 - **Key Features**:
-  - Feature 1
-  - Feature 2
-  - Feature 3
+  - Find local vegetable/fruit vendor near you
+  - Place your order for upcoming vendor(without delivery fee)
+  - Find sevices at your home such as laundry, haircut, massage and more.
 - **Link to project**: [Link](#)
 
 ### **Imagegram**
