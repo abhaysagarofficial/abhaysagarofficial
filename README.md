@@ -1,113 +1,96 @@
-# Hi there, I'm Abhay Sagar 👋
+### Hi there, I'm Abhay Sagar 👋
 
-I'm a passionate [Your Title] with [X years of experience or student info]. I love building solutions that leverage modern technologies and frameworks. I'm always eager to learn and explore new tech domains.
-
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-sagar-759180289/) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/abhaysagarofficial)
+I'm a passionate web developer and a first-year student at the Indian Institute of Information Technology, Lucknow (2023-2027). Currently, I am working on an exciting project called **NeedNear** and diving into the world of blockchain and Web3.0 technologies.
 
 ---
 
-## 🛠 Technologies & Tools:
-
-### Languages
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-
-### Frontend
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack)
-
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Spring IoC](https://img.shields.io/badge/-Spring%20IoC-6DB33F?style=flat-square&logo=spring)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-
-### Cloud & Hosting
-![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-
-### Testing
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium)
-![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5)
-
-### Version Control & CI/CD
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins)
-
-### Tools
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white)
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![JetBrains IDE](https://img.shields.io/badge/-JetBrains-000000?style=flat-square&logo=jetbrains)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu)
+<h3 align="left">Connect with me :-</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/abhay-sagar-759180289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshav-thakur" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/abhaysagar15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="keshav-thakur" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/abhaysagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="keshav-thakur" height="30" width="40" /></a>
+</p>
 
 ---
 
-## 🚀 Projects:
+### 🛠 Technologies & Tools
 
-### **NeedNear**
-- **Description**: Briefly describe your project here.
-- **Key Features**:
-  - Find local vegetable/fruit vendor near you
-  - Place your order for upcoming vendor(without delivery fee)
-  - Find sevices at your home such as laundry, haircut, massage and more.
-- **Link to project**: [Link](#)
-
-### **Imagegram**
-- **Description**: Briefly describe your project here.
-- **Key Features**:
-  - Feature 1
-  - Feature 2
-  - Feature 3
-- **Link to project**: [Link](#)
+<p align="left">
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+    </a> 
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    </a> 
+    <!-- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+    </a> -->
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+        </a> 
+        <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+         <!-- <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+          </a> -->
+           <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+           <!-- <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>  -->
+           <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 ---
 
-## 💡 Interests:
+### 🚀 Projects
+
+#### NeedNear
+*NeedNear* is a startup that aims to bridge the gap between people seeking services and local service providers. We offer a platform that connects users with reliable home cleaning and laundry services in their vicinity. Our goal is to make these essential services easily accessible and convenient for everyone. 
+
+**Key Features:**
+- **User-Friendly Interface:** Easy to navigate and book services.
+- **Verified Service Providers:** Ensuring quality and reliability.
+- **Real-Time Tracking:** Track your service request in real-time.
+- **Secure Payments:** Multiple payment options with secure transactions.
+
+*NeedNear is designed to make your life simpler by bringing trusted services to your doorstep.*
+
+#### MstryMsg [Link](https://github.com/mrkeshav-05/MstryMessage)
+**MstryMsg** is a platform where users can send secret messages to others. Whether you want to share a confidential note, a surprise message, or just have some fun, MstryMsg allows you to communicate anonymously and securely.
+
+**Key Features:**
+- **Anonymous Messaging:** Send messages without revealing your identity.
+- **Secure Encryption:** Ensuring all messages are safely encrypted.
+- **User-Friendly Interface:** Easy to use and navigate.
+
+*With MstryMsg, you can express yourself freely and securely.*
+
+---
+
+### 🌱 Interests
+
 - Web Development
-- Cloud Computing
 - Blockchain Technology
+- Decentralized Applications (DApps)
+- Open Source Contribution
 - Competitive Programming
-- Open Source Contributions
 
 ---
 
-## ✨ Fun fact:
-I love exploring new technologies and constantly challenging myself to learn and grow in the tech space.
+### 📫 How to reach me
 
+- Email: mrkeshav.air@gmail.com
+- LinkedIn: [Abhay Sagar](https://www.linkedin.com/in/abhay-sagar-759180289)
+- GitHub: [abhaysagarofficial](https://github.com/abhaysagarofficial)
+- Twitter: [abhaysagarorg](https://x.com/abhaysagarorg)
+- Instagram: [_abhay190_](https://www.instagram.com/_abhay190_/)
 
+---
 
+### ⚡ Fun fact
 
+I love exploring new technologies and constantly challenge myself to learn and grow in the tech field.
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
+Feel free to connect with me and explore my repositories!
