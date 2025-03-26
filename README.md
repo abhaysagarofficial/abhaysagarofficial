@@ -79,10 +79,10 @@ I'm a passionate web developer and a first-year student at the Indian Institute 
 
 ### 📫 How to reach me
 
-- Email: mrkeshav.air@gmail.com
+- Email: abhaysagarofficial@gmail.com
 - LinkedIn: [Abhay Sagar](https://www.linkedin.com/in/abhay-sagar-759180289)
 - GitHub: [abhaysagarofficial](https://github.com/abhaysagarofficial)
-- Twitter: [abhaysagarorg](https://x.com/abhaysagarorg)
+- Twitter: [abhaysagarogr](https://x.com/abhaysagarogr)
 - Instagram: [_abhay190_](https://www.instagram.com/_abhay190_/)
 
 ---
