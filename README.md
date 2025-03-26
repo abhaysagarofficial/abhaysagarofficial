@@ -1,6 +1,6 @@
 ### Hi there, I'm Abhay Sagar 👋
 
-I'm a passionate web developer and a first-year student at the Indian Institute of Information Technology, Lucknow (2023-2027). Currently, I am working on an exciting project called **NeedNear** and diving into the world of blockchain and Web3.0 technologies.
+I'm a passionate web developer and a second-year student at the Indian Institute of Information Technology, Lucknow (2023-2027). Currently, I am working on an exciting project called **NeedNear** and diving into the world of blockchain and Web3.0 technologies.
 
 ---
 
