@@ -52,7 +52,8 @@ I'm a passionate web developer and a Pre-final year student at the Indian Instit
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhaysagarofficial&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhaysagarofficial&theme=radical&utcOffset=8">
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=abhaysagarofficial&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/grade?username=abhaysagarofficial&theme=radical">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=abhaysagarofficial&show_icons=true&hide_title=true&rank_icon=github&theme=radical">
+
 
 
 </div>
