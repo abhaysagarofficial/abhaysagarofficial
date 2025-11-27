@@ -52,7 +52,8 @@ I'm a passionate web developer and a Pre-final year student at the Indian Instit
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhaysagarofficial&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhaysagarofficial&theme=radical&utcOffset=8">
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=abhaysagarofficial&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaysagarofficial&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/grade?username=abhaysagarofficial&theme=radical">
+
 
 </div>
 
@@ -60,7 +61,7 @@ I'm a passionate web developer and a Pre-final year student at the Indian Instit
 
 <!-- Snake Game Repo View -->
 <div align="center">
-  <img src="https://github.com/abhaysagarofficial/abhaysagarofficial/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 
