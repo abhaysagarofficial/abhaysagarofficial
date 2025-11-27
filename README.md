@@ -56,22 +56,24 @@ I'm a passionate web developer and a Pre-final year student at the Indian Instit
 
 *SnapTix brings together AI and Web3 to deliver a smarter, safer, and decentralized ticketing ecosystem.*
 
-#### MstryMsg [Link](https://github.com/mrkeshav-05/MstryMessage)
-**MstryMsg** is a platform where users can send secret messages to others. Whether you want to share a confidential note, a surprise message, or just have some fun, MstryMsg allows you to communicate anonymously and securely.
+#### Chatterbox [Link](https://github.com/abhaysagarofficial/Chatterbox.git)
+**Chatterbox** is a modern real-time chatting platform built to deliver seamless, fast, and secure communication. With scalable WebSocket architecture and smooth media handling, Chatterbox enables users to connect through private and group conversations effortlessly.
 
 **Key Features:**
-- **Anonymous Messaging:** Send messages without revealing your identity.
-- **Secure Encryption:** Ensuring all messages are safely encrypted.
-- **User-Friendly Interface:** Easy to use and navigate.
+- **Instant Messaging:** Real-time communication powered by WebSockets and Socket.io for low-latency private and group chats.
+- **Secure Media Sharing:** Integrated Cloudinary for safe image uploads, optimized delivery, and cross-device support.
+- **Scalable Backend:** Django ASGI architecture enabling efficient socket handling and robust REST APIs.
+- **Modern UI/UX:** Responsive React frontend styled with Tailwind for a smooth and intuitive chat experience.
+- **Reliable Infrastructure:** Designed for performance, scalability, and consistent message delivery.
 
-*With MstryMsg, you can express yourself freely and securely.*
+*Chatterbox brings real-time communication to life with a powerful blend of speed, security, and user-friendly design.*
 
 ---
 
 ### 🌱 Interests
 
 - Web Development
-- Blockchain Technology
+- Machine Learning
 - Decentralized Applications (DApps)
 - Open Source Contribution
 - Competitive Programming
