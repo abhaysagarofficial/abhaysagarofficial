@@ -44,7 +44,7 @@ I'm a passionate web developer and a Pre-final year student at the Indian Instit
 
 ### 🚀 Projects
 
-#### SnapTix
+#### SnapTix [Link](https://github.com/abhaysagarofficial/SnapTix.git)
 *SnapTix* is an AI-powered decentralized ticketing platform designed to transform how users discover, purchase, and manage event tickets. By combining cutting-edge LLM intelligence with blockchain-backed security, SnapTix delivers a seamless and transparent ticketing experience.
 
 **Key Features:**
