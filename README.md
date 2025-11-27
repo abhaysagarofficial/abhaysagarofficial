@@ -44,16 +44,17 @@ I'm a passionate web developer and a Pre-final year student at the Indian Instit
 
 ### 🚀 Projects
 
-#### NeedNear
-*NeedNear* is a startup that aims to bridge the gap between people seeking services and local service providers. We offer a platform that connects users with reliable home cleaning and laundry services in their vicinity. Our goal is to make these essential services easily accessible and convenient for everyone. 
+#### SnapTix
+*SnapTix* is an AI-powered decentralized ticketing platform designed to transform how users discover, purchase, and manage event tickets. By combining cutting-edge LLM intelligence with blockchain-backed security, SnapTix delivers a seamless and transparent ticketing experience.
 
 **Key Features:**
-- **User-Friendly Interface:** Easy to navigate and book services.
-- **Verified Service Providers:** Ensuring quality and reliability.
-- **Real-Time Tracking:** Track your service request in real-time.
-- **Secure Payments:** Multiple payment options with secure transactions.
+- **AI Event Assistant:** Built using a Groq-based Large Language Model (LLM) to provide instant, intelligent event support.
+- **Real-Time Data Streaming:** Integrated Fluvio for live event and ticketing updates, ensuring fast and reliable processing.
+- **NFT-Based Ticketing:** Implemented secure and verifiable NFT tickets on the Base chain for transparent transactions.
+- **Decentralized Architecture:** Powered by Hardhat and Base blockchain to ensure trust, ownership, and fraud prevention.
+- **Modern Web Interface:** Smooth, responsive user experience using Next.js.
 
-*NeedNear is designed to make your life simpler by bringing trusted services to your doorstep.*
+*SnapTix brings together AI and Web3 to deliver a smarter, safer, and decentralized ticketing ecosystem.*
 
 #### MstryMsg [Link](https://github.com/mrkeshav-05/MstryMessage)
 **MstryMsg** is a platform where users can send secret messages to others. Whether you want to share a confidential note, a surprise message, or just have some fun, MstryMsg allows you to communicate anonymously and securely.
