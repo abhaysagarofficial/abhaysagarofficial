@@ -7,8 +7,8 @@ I'm a passionate web developer and a Pre-final year student at the Indian Instit
 <h3 align="left">Connect with me :-</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abhay-sagar-759180289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshav-thakur" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/abhaysagar15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="keshav-thakur" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/abhaysagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="keshav-thakur" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/rishirohilla05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="keshav-thakur" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/learnernew1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="keshav-thakur" height="30" width="40" /></a>
 </p>
 
 ---
@@ -79,7 +79,7 @@ I'm a passionate web developer and a Pre-final year student at the Indian Instit
 
 ### 📫 How to reach me
 
-- Email: abhaysagarofficial@gmail.com
+- Email: sagarabhay312@gmail.com
 - LinkedIn: [Abhay Sagar](https://www.linkedin.com/in/abhay-sagar-759180289)
 - GitHub: [abhaysagarofficial](https://github.com/abhaysagarofficial)
 - Twitter: [abhaysagarogr](https://x.com/abhaysagarogr)
