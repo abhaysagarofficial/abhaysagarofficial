@@ -40,13 +40,41 @@ I'm a passionate web developer and a Pre-final year student at the Indian Instit
            <!-- <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>  -->
            <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhaysagarofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abhaysagarofficial&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhaysagarofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🧩 GitHub Stats (Auto-Generated)
+
+### 📊 Profile Summary
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhaysagarofficial&theme=tokyonight)
 
 ---
 
+### 🛠️ Top Languages  
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhaysagarofficial&theme=tokyonight)
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhaysagarofficial&theme=tokyonight)
+
+---
+
+### 📈 GitHub Stats  
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhaysagarofficial&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhaysagarofficial&theme=tokyonight)
+
+---
+
+### 📉 Contributions Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhaysagarofficial&theme=tokyo-night)
+
+---
+
+### 🏆 GitHub Trophies  
+![Trophies](https://github-profile-trophy.vercel.app/?username=abhaysagarofficial&theme=onestar&no-frame=true&no-bg=true&margin-w=15)
+
+---
+
+### 📌 Basic GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhaysagarofficial&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhaysagarofficial&layout=compact&theme=tokyonight)
+
+---
 ### 🚀 Projects
 
 #### SnapTix [Link](https://github.com/abhaysagarofficial/SnapTix.git)
