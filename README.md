@@ -73,26 +73,9 @@ I'm a passionate web developer and a Pre-final year student at the Indian Instit
 #### SnapTix [Link](https://github.com/abhaysagarofficial/SnapTix.git)
 *SnapTix* is an AI-powered decentralized ticketing platform designed to transform how users discover, purchase, and manage event tickets. By combining cutting-edge LLM intelligence with blockchain-backed security, SnapTix delivers a seamless and transparent ticketing experience.
 
-**Key Features:**
-- **AI Event Assistant:** Built using a Groq-based Large Language Model (LLM) to provide instant, intelligent event support.
-- **Real-Time Data Streaming:** Integrated Fluvio for live event and ticketing updates, ensuring fast and reliable processing.
-- **NFT-Based Ticketing:** Implemented secure and verifiable NFT tickets on the Base chain for transparent transactions.
-- **Decentralized Architecture:** Powered by Hardhat and Base blockchain to ensure trust, ownership, and fraud prevention.
-- **Modern Web Interface:** Smooth, responsive user experience using Next.js.
-
-*SnapTix brings together AI and Web3 to deliver a smarter, safer, and decentralized ticketing ecosystem.*
-
 #### Chatterbox [Link](https://github.com/abhaysagarofficial/Chatterbox.git)
 **Chatterbox** is a modern real-time chatting platform built to deliver seamless, fast, and secure communication. With scalable WebSocket architecture and smooth media handling, Chatterbox enables users to connect through private and group conversations effortlessly.
 
-**Key Features:**
-- **Instant Messaging:** Real-time communication powered by WebSockets and Socket.io for low-latency private and group chats.
-- **Secure Media Sharing:** Integrated Cloudinary for safe image uploads, optimized delivery, and cross-device support.
-- **Scalable Backend:** Django ASGI architecture enabling efficient socket handling and robust REST APIs.
-- **Modern UI/UX:** Responsive React frontend styled with Tailwind for a smooth and intuitive chat experience.
-- **Reliable Infrastructure:** Designed for performance, scalability, and consistent message delivery.
-
-*Chatterbox brings real-time communication to life with a powerful blend of speed, security, and user-friendly design.*
 
 ---
 
